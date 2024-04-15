@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07579_jpg.rf.ae47e01909641b0edaceb7d9410aec16.jpg</filename>
+	<path>07579_jpg.rf.ae47e01909641b0edaceb7d9410aec16.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep Compass SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>291</xmax>
+			<ymin>162</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

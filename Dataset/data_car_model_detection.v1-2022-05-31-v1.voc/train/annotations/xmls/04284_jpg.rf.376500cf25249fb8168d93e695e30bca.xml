@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04284_jpg.rf.376500cf25249fb8168d93e695e30bca.jpg</filename>
+	<path>04284_jpg.rf.376500cf25249fb8168d93e695e30bca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan 240SX Coupe 1998</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>413</xmax>
+			<ymin>95</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

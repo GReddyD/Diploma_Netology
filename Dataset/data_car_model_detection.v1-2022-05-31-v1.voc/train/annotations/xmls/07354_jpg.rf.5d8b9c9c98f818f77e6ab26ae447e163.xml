@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07354_jpg.rf.5d8b9c9c98f818f77e6ab26ae447e163.jpg</filename>
+	<path>07354_jpg.rf.5d8b9c9c98f818f77e6ab26ae447e163.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW M6 Convertible 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>398</xmax>
+			<ymin>124</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

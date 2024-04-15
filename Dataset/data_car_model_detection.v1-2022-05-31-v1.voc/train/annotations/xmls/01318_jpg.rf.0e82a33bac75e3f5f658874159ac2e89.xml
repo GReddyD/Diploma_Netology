@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01318_jpg.rf.0e82a33bac75e3f5f658874159ac2e89.jpg</filename>
+	<path>01318_jpg.rf.0e82a33bac75e3f5f658874159ac2e89.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Malibu Hybrid Sedan 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>109</xmin>
+			<xmax>377</xmax>
+			<ymin>127</ymin>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

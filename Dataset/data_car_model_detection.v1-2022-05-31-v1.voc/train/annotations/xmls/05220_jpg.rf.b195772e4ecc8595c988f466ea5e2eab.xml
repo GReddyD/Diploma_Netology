@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05220_jpg.rf.b195772e4ecc8595c988f466ea5e2eab.jpg</filename>
+	<path>05220_jpg.rf.b195772e4ecc8595c988f466ea5e2eab.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Veloster Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>416</xmax>
+			<ymin>122</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

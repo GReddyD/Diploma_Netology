@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01526_jpg.rf.10bfacc75a139be8fe451e0304c5787c.jpg</filename>
+	<path>01526_jpg.rf.10bfacc75a139be8fe451e0304c5787c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Charger SRT-8 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>383</xmax>
+			<ymin>133</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00856_jpg.rf.73ad54ecd256e63fef32acd3bb78dd4a.jpg</filename>
+	<path>00856_jpg.rf.73ad54ecd256e63fef32acd3bb78dd4a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bentley Mulsanne Sedan 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>285</xmax>
+			<ymin>158</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02923_jpg.rf.5983de8573c83a8b79976122c36f68a6.jpg</filename>
+	<path>02923_jpg.rf.5983de8573c83a8b79976122c36f68a6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ferrari FF Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>401</xmax>
+			<ymin>124</ymin>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

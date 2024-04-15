@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05777_jpg.rf.fe52f13fe9517a17f1ac95ecbb77b65d.jpg</filename>
+	<path>05777_jpg.rf.fe52f13fe9517a17f1ac95ecbb77b65d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toyota Corolla Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>394</xmax>
+			<ymin>98</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>08134_jpg.rf.1865de9c5414f17f0731978f1147e509.jpg</filename>
+	<path>08134_jpg.rf.1865de9c5414f17f0731978f1147e509.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HUMMER H3T Crew Cab 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>312</xmax>
+			<ymin>100</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

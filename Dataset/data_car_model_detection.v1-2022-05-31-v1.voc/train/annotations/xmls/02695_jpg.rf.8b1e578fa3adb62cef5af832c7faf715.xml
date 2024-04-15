@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02695_jpg.rf.8b1e578fa3adb62cef5af832c7faf715.jpg</filename>
+	<path>02695_jpg.rf.8b1e578fa3adb62cef5af832c7faf715.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Corvette ZR1 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>396</xmax>
+			<ymin>131</ymin>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

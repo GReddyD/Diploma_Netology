@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02346_jpg.rf.256984117f103a98eac250de6f488752.jpg</filename>
+	<path>02346_jpg.rf.256984117f103a98eac250de6f488752.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ferrari California Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>214</xmax>
+			<ymin>152</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

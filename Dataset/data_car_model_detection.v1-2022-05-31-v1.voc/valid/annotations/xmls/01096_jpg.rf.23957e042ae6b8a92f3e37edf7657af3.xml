@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01096_jpg.rf.23957e042ae6b8a92f3e37edf7657af3.jpg</filename>
+	<path>01096_jpg.rf.23957e042ae6b8a92f3e37edf7657af3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mazda Tribute SUV 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>410</xmax>
+			<ymin>90</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

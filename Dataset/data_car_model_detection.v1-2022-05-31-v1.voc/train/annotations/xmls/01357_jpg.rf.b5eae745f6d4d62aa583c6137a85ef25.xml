@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01357_jpg.rf.b5eae745f6d4d62aa583c6137a85ef25.jpg</filename>
+	<path>01357_jpg.rf.b5eae745f6d4d62aa583c6137a85ef25.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bentley Continental Flying Spur Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>390</xmax>
+			<ymin>134</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

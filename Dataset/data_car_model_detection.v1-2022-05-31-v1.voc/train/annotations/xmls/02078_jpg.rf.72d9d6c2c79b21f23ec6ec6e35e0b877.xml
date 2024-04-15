@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02078_jpg.rf.72d9d6c2c79b21f23ec6ec6e35e0b877.jpg</filename>
+	<path>02078_jpg.rf.72d9d6c2c79b21f23ec6ec6e35e0b877.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Charger Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>297</xmax>
+			<ymin>146</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02398_jpg.rf.e53bb1f1945b441e89d306d11fa211da.jpg</filename>
+	<path>02398_jpg.rf.e53bb1f1945b441e89d306d11fa211da.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Ram Pickup 3500 Crew Cab 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>391</xmax>
+			<ymin>96</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

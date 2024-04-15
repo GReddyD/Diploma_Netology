@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04978_jpg.rf.c2418945bea75f5baf86e3914e1cfbf5.jpg</filename>
+	<path>04978_jpg.rf.c2418945bea75f5baf86e3914e1cfbf5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW M5 Sedan 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>299</xmax>
+			<ymin>154</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07020_jpg.rf.16b9c3536f45564dc0c8d0a45ecda61d.jpg</filename>
+	<path>07020_jpg.rf.16b9c3536f45564dc0c8d0a45ecda61d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Journey SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>114</xmin>
+			<xmax>335</xmax>
+			<ymin>165</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

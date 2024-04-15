@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04594_jpg.rf.4aa16dbbb40e960acffb8a1a5f49a034.jpg</filename>
+	<path>04594_jpg.rf.4aa16dbbb40e960acffb8a1a5f49a034.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW M3 Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>262</xmax>
+			<ymin>164</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

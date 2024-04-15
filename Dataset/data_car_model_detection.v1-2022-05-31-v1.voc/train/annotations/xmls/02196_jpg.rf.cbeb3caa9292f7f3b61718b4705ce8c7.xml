@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02196_jpg.rf.cbeb3caa9292f7f3b61718b4705ce8c7.jpg</filename>
+	<path>02196_jpg.rf.cbeb3caa9292f7f3b61718b4705ce8c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC Canyon Extended Cab 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>390</xmax>
+			<ymin>174</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

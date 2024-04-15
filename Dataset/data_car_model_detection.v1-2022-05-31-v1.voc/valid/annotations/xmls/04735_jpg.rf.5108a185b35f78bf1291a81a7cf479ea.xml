@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04735_jpg.rf.5108a185b35f78bf1291a81a7cf479ea.jpg</filename>
+	<path>04735_jpg.rf.5108a185b35f78bf1291a81a7cf479ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Land Rover Range Rover SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>341</xmax>
+			<ymin>118</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

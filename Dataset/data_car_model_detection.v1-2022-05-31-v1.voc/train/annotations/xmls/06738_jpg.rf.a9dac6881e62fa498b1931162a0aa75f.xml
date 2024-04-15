@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06738_jpg.rf.a9dac6881e62fa498b1931162a0aa75f.jpg</filename>
+	<path>06738_jpg.rf.a9dac6881e62fa498b1931162a0aa75f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler Crossfire Convertible 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>389</xmax>
+			<ymin>92</ymin>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

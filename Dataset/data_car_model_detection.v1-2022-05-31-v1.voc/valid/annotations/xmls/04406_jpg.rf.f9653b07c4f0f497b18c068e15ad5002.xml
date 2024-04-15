@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04406_jpg.rf.f9653b07c4f0f497b18c068e15ad5002.jpg</filename>
+	<path>04406_jpg.rf.f9653b07c4f0f497b18c068e15ad5002.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lamborghini Aventador Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>270</xmax>
+			<ymin>206</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

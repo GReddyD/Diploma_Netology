@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01420_jpg.rf.eb1e5cf85f1c20767ef0efc9c165278f.jpg</filename>
+	<path>01420_jpg.rf.eb1e5cf85f1c20767ef0efc9c165278f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz E-Class Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>379</xmax>
+			<ymin>155</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01976_jpg.rf.77218a351080d8ed9a1941c0ab0ae697.jpg</filename>
+	<path>01976_jpg.rf.77218a351080d8ed9a1941c0ab0ae697.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz 300-Class Convertible 1993</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>394</xmax>
+			<ymin>181</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

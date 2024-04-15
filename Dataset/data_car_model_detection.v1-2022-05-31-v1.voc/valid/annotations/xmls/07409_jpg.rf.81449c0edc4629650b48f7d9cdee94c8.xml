@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07409_jpg.rf.81449c0edc4629650b48f7d9cdee94c8.jpg</filename>
+	<path>07409_jpg.rf.81449c0edc4629650b48f7d9cdee94c8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Leaf Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>381</xmax>
+			<ymin>152</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

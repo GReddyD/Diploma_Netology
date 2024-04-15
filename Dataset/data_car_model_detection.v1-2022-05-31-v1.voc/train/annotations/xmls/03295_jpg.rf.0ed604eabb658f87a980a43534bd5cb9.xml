@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03295_jpg.rf.0ed604eabb658f87a980a43534bd5cb9.jpg</filename>
+	<path>03295_jpg.rf.0ed604eabb658f87a980a43534bd5cb9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Dakota Club Cab 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>365</xmax>
+			<ymin>98</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

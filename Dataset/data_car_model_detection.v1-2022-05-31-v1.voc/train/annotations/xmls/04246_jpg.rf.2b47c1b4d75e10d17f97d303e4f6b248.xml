@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04246_jpg.rf.2b47c1b4d75e10d17f97d303e4f6b248.jpg</filename>
+	<path>04246_jpg.rf.2b47c1b4d75e10d17f97d303e4f6b248.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Cobalt SS 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>385</xmax>
+			<ymin>126</ymin>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

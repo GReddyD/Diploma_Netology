@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03767_jpg.rf.d30b1d524485b8e7070daf62fa0535c0.jpg</filename>
+	<path>03767_jpg.rf.d30b1d524485b8e7070daf62fa0535c0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acura RL Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>362</xmax>
+			<ymin>126</ymin>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04773_jpg.rf.1d685127d3054d1fc291512d8fe8fd4b.jpg</filename>
+	<path>04773_jpg.rf.1d685127d3054d1fc291512d8fe8fd4b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi Lancer Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>406</xmax>
+			<ymin>128</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

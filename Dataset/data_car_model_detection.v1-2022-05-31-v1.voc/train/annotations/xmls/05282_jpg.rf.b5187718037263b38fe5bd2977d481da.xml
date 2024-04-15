@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05282_jpg.rf.b5187718037263b38fe5bd2977d481da.jpg</filename>
+	<path>05282_jpg.rf.b5187718037263b38fe5bd2977d481da.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Suzuki Kizashi Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>326</xmax>
+			<ymin>146</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

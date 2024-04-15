@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05280_jpg.rf.dfbc66607c721e53ddd80b87c7afb228.jpg</filename>
+	<path>05280_jpg.rf.dfbc66607c721e53ddd80b87c7afb228.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi R8 Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>374</xmax>
+			<ymin>99</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

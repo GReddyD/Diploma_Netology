@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04848_jpg.rf.a5ae69f3b09981602aaf61f96cbab792.jpg</filename>
+	<path>04848_jpg.rf.a5ae69f3b09981602aaf61f96cbab792.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi V8 Sedan 1994</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>390</xmax>
+			<ymin>186</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

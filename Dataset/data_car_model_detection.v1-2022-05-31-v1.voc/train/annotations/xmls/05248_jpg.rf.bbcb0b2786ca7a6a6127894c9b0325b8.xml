@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05248_jpg.rf.bbcb0b2786ca7a6a6127894c9b0325b8.jpg</filename>
+	<path>05248_jpg.rf.bbcb0b2786ca7a6a6127894c9b0325b8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Veracruz SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>326</xmax>
+			<ymin>98</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

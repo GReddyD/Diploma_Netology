@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06608_jpg.rf.69fc5a12e33c4ab7cbbfc8c7fdcf2eca.jpg</filename>
+	<path>06608_jpg.rf.69fc5a12e33c4ab7cbbfc8c7fdcf2eca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smart fortwo Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>401</xmax>
+			<ymin>97</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02572_jpg.rf.67b241d988ee682ba6c5e85aa670d871.jpg</filename>
+	<path>02572_jpg.rf.67b241d988ee682ba6c5e85aa670d871.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rolls-Royce Phantom Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>413</xmax>
+			<ymin>139</ymin>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

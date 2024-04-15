@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06545_jpg.rf.e0321f9ad0be963abc9ff1d108b9fe67.jpg</filename>
+	<path>06545_jpg.rf.e0321f9ad0be963abc9ff1d108b9fe67.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi S5 Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>394</xmax>
+			<ymin>146</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

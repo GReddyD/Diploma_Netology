@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03877_jpg.rf.31c984aafff841497413366c49781037.jpg</filename>
+	<path>03877_jpg.rf.31c984aafff841497413366c49781037.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acura Integra Type R 2001</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>378</xmax>
+			<ymin>135</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

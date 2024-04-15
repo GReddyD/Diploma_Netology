@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04061_jpg.rf.968e6eb60492a117ed8da54cacc70122.jpg</filename>
+	<path>04061_jpg.rf.968e6eb60492a117ed8da54cacc70122.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi TT Hatchback 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>406</xmax>
+			<ymin>130</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

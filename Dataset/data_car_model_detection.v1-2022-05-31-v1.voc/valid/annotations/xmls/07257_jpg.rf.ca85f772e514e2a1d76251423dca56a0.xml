@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07257_jpg.rf.ca85f772e514e2a1d76251423dca56a0.jpg</filename>
+	<path>07257_jpg.rf.ca85f772e514e2a1d76251423dca56a0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Avalanche Crew Cab 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>379</xmax>
+			<ymin>80</ymin>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

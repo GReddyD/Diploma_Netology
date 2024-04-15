@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00685_jpg.rf.8b78d1f3e01d488f2b8b00a5a1bc1193.jpg</filename>
+	<path>00685_jpg.rf.8b78d1f3e01d488f2b8b00a5a1bc1193.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Genesis Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>374</xmax>
+			<ymin>162</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

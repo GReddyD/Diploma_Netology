@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05452_jpg.rf.eab5f1dd9af55d2c0fb543637cfb7ec9.jpg</filename>
+	<path>05452_jpg.rf.eab5f1dd9af55d2c0fb543637cfb7ec9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz S-Class Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>400</xmax>
+			<ymin>97</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04895_jpg.rf.b59564549a013f740ff480359f7a54b9.jpg</filename>
+	<path>04895_jpg.rf.b59564549a013f740ff480359f7a54b9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Tucson SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>390</xmax>
+			<ymin>160</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

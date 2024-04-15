@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05783_jpg.rf.f070a4807a18e1083e538784fe4f3865.jpg</filename>
+	<path>05783_jpg.rf.f070a4807a18e1083e538784fe4f3865.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Edge SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>392</xmax>
+			<ymin>110</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04633_jpg.rf.51a6e15a661b05f989c80af89dc90201.jpg</filename>
+	<path>04633_jpg.rf.51a6e15a661b05f989c80af89dc90201.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Accent Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>399</xmax>
+			<ymin>107</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01698_jpg.rf.0ec21527387073e9082a994153ee4d95.jpg</filename>
+	<path>01698_jpg.rf.0ec21527387073e9082a994153ee4d95.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Geo Metro Convertible 1993</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>412</xmax>
+			<ymin>161</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

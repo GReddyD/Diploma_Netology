@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07151_jpg.rf.b427ccf7c73473448f09d4e8cb4c2615.jpg</filename>
+	<path>07151_jpg.rf.b427ccf7c73473448f09d4e8cb4c2615.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rolls-Royce Ghost Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>374</xmax>
+			<ymin>112</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

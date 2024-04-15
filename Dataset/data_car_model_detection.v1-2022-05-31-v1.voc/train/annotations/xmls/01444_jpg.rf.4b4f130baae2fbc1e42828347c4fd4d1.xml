@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01444_jpg.rf.4b4f130baae2fbc1e42828347c4fd4d1.jpg</filename>
+	<path>01444_jpg.rf.4b4f130baae2fbc1e42828347c4fd4d1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cadillac SRX SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>395</xmax>
+			<ymin>87</ymin>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

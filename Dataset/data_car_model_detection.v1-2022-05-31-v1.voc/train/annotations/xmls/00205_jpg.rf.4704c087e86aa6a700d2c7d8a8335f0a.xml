@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00205_jpg.rf.4704c087e86aa6a700d2c7d8a8335f0a.jpg</filename>
+	<path>00205_jpg.rf.4704c087e86aa6a700d2c7d8a8335f0a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi S4 Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>398</xmax>
+			<ymin>116</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

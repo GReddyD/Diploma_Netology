@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03165_jpg.rf.59550eeb365b749bcac97e502938bc30.jpg</filename>
+	<path>03165_jpg.rf.59550eeb365b749bcac97e502938bc30.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acura TL Type-S 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>384</xmax>
+			<ymin>70</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

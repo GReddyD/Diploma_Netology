@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05400_jpg.rf.2c9a10d0da2832e2e545476f39021e85.jpg</filename>
+	<path>05400_jpg.rf.2c9a10d0da2832e2e545476f39021e85.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Santa Fe SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>393</xmax>
+			<ymin>113</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

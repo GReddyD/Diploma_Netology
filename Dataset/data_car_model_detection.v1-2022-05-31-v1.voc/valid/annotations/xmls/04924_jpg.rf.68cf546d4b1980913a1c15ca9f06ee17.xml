@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04924_jpg.rf.68cf546d4b1980913a1c15ca9f06ee17.jpg</filename>
+	<path>04924_jpg.rf.68cf546d4b1980913a1c15ca9f06ee17.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bentley Continental GT Coupe 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>326</xmax>
+			<ymin>131</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

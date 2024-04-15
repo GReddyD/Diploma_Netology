@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03756_jpg.rf.76ca3acbdbe3c8b18da9a1b0a4b060b4.jpg</filename>
+	<path>03756_jpg.rf.76ca3acbdbe3c8b18da9a1b0a4b060b4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A5 Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>371</xmax>
+			<ymin>138</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05184_jpg.rf.f65631d898f2c5df9f53062f6020e149.jpg</filename>
+	<path>05184_jpg.rf.f65631d898f2c5df9f53062f6020e149.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Caliber Wagon 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>401</xmax>
+			<ymin>165</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

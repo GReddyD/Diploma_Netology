@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06638_jpg.rf.006d2949fab96992e29ca7184e245b6b.jpg</filename>
+	<path>06638_jpg.rf.006d2949fab96992e29ca7184e245b6b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Suzuki SX4 Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>406</xmax>
+			<ymin>80</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,15 @@
+names:
+- Chevrolet Traverse SUV 2012
+- Buick Verano Sedan 2012
+- Dodge Charger Sedan 2012
+- Audi TTS Coupe 2012
+- Mitsubishi Lancer Sedan 2012
+- Geo Metro Convertible 1993
+- Acura TL Sedan 2012
+- Dodge Dakota Club Cab 2007
+- Ford F-450 Super Duty Crew Cab 2012
+- Hyundai Sonata Hybrid Sedan 2012
+nc: 10
+path: ..
+train: G:\Code\Netology\Python\DS\Диплом\Dataset\data_car_model_10_detection.voc\valid\images
+val: G:\Code\Netology\Python\DS\Диплом\Dataset\data_car_model_10_detection.voc\valid\images

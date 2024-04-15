@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02788_jpg.rf.ddd7f2992c01624ea9555c7964d5789d.jpg</filename>
+	<path>02788_jpg.rf.ddd7f2992c01624ea9555c7964d5789d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW Z4 Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>374</xmax>
+			<ymin>185</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

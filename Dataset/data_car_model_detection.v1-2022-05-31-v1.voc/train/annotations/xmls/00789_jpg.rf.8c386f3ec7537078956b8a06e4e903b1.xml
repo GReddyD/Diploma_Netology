@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00789_jpg.rf.8c386f3ec7537078956b8a06e4e903b1.jpg</filename>
+	<path>00789_jpg.rf.8c386f3ec7537078956b8a06e4e903b1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz C-Class Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>394</xmax>
+			<ymin>93</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

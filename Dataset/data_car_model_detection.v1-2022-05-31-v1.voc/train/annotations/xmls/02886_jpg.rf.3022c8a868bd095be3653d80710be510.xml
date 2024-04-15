@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02886_jpg.rf.3022c8a868bd095be3653d80710be510.jpg</filename>
+	<path>02886_jpg.rf.3022c8a868bd095be3653d80710be510.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep Grand Cherokee SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>400</xmax>
+			<ymin>111</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

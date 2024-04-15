@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01253_jpg.rf.06dfd98f6ba6615bb09d580cd753a846.jpg</filename>
+	<path>01253_jpg.rf.06dfd98f6ba6615bb09d580cd753a846.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW X3 SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>387</xmax>
+			<ymin>121</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

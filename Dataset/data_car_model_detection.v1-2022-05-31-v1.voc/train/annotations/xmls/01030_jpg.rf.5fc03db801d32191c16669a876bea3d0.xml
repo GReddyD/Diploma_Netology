@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01030_jpg.rf.5fc03db801d32191c16669a876bea3d0.jpg</filename>
+	<path>01030_jpg.rf.5fc03db801d32191c16669a876bea3d0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Isuzu Ascender SUV 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>403</xmax>
+			<ymin>97</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

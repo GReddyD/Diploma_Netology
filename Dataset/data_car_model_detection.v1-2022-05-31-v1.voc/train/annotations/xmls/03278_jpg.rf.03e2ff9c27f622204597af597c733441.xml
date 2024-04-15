@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03278_jpg.rf.03e2ff9c27f622204597af597c733441.jpg</filename>
+	<path>03278_jpg.rf.03e2ff9c27f622204597af597c733441.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bugatti Veyron 16-4 Coupe 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>370</xmax>
+			<ymin>111</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

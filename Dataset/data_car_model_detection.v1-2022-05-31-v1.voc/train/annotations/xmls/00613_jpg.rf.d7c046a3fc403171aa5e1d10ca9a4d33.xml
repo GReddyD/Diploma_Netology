@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00613_jpg.rf.d7c046a3fc403171aa5e1d10ca9a4d33.jpg</filename>
+	<path>00613_jpg.rf.d7c046a3fc403171aa5e1d10ca9a4d33.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan NV Passenger Van 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>394</xmax>
+			<ymin>88</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

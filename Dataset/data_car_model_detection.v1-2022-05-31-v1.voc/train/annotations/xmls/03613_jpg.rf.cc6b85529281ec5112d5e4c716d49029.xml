@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03613_jpg.rf.cc6b85529281ec5112d5e4c716d49029.jpg</filename>
+	<path>03613_jpg.rf.cc6b85529281ec5112d5e4c716d49029.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volvo 240 Sedan 1993</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>405</xmax>
+			<ymin>93</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

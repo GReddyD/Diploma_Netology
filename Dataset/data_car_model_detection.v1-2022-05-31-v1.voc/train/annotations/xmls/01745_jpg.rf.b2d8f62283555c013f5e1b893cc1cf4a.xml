@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01745_jpg.rf.b2d8f62283555c013f5e1b893cc1cf4a.jpg</filename>
+	<path>01745_jpg.rf.b2d8f62283555c013f5e1b893cc1cf4a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Express Van 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>405</xmax>
+			<ymin>73</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

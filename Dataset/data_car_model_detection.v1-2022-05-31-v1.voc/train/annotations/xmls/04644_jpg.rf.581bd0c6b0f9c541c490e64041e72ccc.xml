@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04644_jpg.rf.581bd0c6b0f9c541c490e64041e72ccc.jpg</filename>
+	<path>04644_jpg.rf.581bd0c6b0f9c541c490e64041e72ccc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW 1 Series Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>387</xmax>
+			<ymin>142</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

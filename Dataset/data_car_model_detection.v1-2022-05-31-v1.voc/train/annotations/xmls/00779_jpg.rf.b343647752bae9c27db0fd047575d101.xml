@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00779_jpg.rf.b343647752bae9c27db0fd047575d101.jpg</filename>
+	<path>00779_jpg.rf.b343647752bae9c27db0fd047575d101.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet TrailBlazer SS 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>386</xmax>
+			<ymin>154</ymin>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

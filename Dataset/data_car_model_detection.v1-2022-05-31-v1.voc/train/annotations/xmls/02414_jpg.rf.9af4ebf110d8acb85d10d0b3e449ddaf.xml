@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02414_jpg.rf.9af4ebf110d8acb85d10d0b3e449ddaf.jpg</filename>
+	<path>02414_jpg.rf.9af4ebf110d8acb85d10d0b3e449ddaf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Elantra Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>404</xmax>
+			<ymin>108</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

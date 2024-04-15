@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07575_jpg.rf.f74672e04c9fe1ed71ac3f13acc6f682.jpg</filename>
+	<path>07575_jpg.rf.f74672e04c9fe1ed71ac3f13acc6f682.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Corvette Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>406</xmax>
+			<ymin>140</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

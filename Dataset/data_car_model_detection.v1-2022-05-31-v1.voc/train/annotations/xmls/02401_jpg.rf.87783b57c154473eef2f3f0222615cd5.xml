@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02401_jpg.rf.87783b57c154473eef2f3f0222615cd5.jpg</filename>
+	<path>02401_jpg.rf.87783b57c154473eef2f3f0222615cd5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volvo C30 Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>354</xmax>
+			<ymin>132</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

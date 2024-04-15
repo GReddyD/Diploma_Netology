@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06014_jpg.rf.588aa552a5fc7080b2373f118577f5d8.jpg</filename>
+	<path>06014_jpg.rf.588aa552a5fc7080b2373f118577f5d8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FIAT 500 Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>364</xmax>
+			<ymin>189</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

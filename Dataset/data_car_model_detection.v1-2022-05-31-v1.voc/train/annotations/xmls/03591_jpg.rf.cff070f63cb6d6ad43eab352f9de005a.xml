@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03591_jpg.rf.cff070f63cb6d6ad43eab352f9de005a.jpg</filename>
+	<path>03591_jpg.rf.cff070f63cb6d6ad43eab352f9de005a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jaguar XK XKR 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>321</xmax>
+			<ymin>190</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

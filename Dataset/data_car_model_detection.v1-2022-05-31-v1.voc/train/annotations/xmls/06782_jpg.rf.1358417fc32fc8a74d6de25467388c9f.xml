@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06782_jpg.rf.1358417fc32fc8a74d6de25467388c9f.jpg</filename>
+	<path>06782_jpg.rf.1358417fc32fc8a74d6de25467388c9f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aston Martin V8 Vantage Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>388</xmax>
+			<ymin>142</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

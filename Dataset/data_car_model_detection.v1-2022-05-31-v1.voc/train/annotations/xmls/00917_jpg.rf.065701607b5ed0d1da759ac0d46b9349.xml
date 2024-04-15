@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00917_jpg.rf.065701607b5ed0d1da759ac0d46b9349.jpg</filename>
+	<path>00917_jpg.rf.065701607b5ed0d1da759ac0d46b9349.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Magnum Wagon 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>409</xmax>
+			<ymin>153</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

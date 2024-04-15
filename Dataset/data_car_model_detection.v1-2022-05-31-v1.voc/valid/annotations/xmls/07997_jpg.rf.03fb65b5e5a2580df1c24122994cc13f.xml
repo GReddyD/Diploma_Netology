@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07997_jpg.rf.03fb65b5e5a2580df1c24122994cc13f.jpg</filename>
+	<path>07997_jpg.rf.03fb65b5e5a2580df1c24122994cc13f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Infiniti QX56 SUV 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>358</xmax>
+			<ymin>138</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

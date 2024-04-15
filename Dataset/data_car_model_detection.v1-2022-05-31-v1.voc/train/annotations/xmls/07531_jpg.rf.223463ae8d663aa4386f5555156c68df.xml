@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07531_jpg.rf.223463ae8d663aa4386f5555156c68df.jpg</filename>
+	<path>07531_jpg.rf.223463ae8d663aa4386f5555156c68df.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lamborghini Reventon Coupe 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>400</xmax>
+			<ymin>83</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

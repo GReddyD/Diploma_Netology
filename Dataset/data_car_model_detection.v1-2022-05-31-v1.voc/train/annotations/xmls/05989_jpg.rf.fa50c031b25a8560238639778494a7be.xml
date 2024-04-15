@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05989_jpg.rf.fa50c031b25a8560238639778494a7be.jpg</filename>
+	<path>05989_jpg.rf.fa50c031b25a8560238639778494a7be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Dakota Crew Cab 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>400</xmax>
+			<ymin>123</ymin>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

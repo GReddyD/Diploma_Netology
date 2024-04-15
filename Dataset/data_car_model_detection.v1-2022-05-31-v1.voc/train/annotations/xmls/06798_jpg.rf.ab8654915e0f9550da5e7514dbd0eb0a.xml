@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06798_jpg.rf.ab8654915e0f9550da5e7514dbd0eb0a.jpg</filename>
+	<path>06798_jpg.rf.ab8654915e0f9550da5e7514dbd0eb0a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FIAT 500 Abarth 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>393</xmax>
+			<ymin>91</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

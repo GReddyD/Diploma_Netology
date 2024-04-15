@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05007_jpg.rf.9b2cba7e7db81f03799d6c236124b490.jpg</filename>
+	<path>05007_jpg.rf.9b2cba7e7db81f03799d6c236124b490.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi S6 Sedan 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>402</xmax>
+			<ymin>163</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

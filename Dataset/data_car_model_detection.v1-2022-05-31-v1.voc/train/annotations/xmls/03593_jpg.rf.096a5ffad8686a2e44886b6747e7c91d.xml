@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03593_jpg.rf.096a5ffad8686a2e44886b6747e7c91d.jpg</filename>
+	<path>03593_jpg.rf.096a5ffad8686a2e44886b6747e7c91d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen Beetle Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>386</xmax>
+			<ymin>178</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

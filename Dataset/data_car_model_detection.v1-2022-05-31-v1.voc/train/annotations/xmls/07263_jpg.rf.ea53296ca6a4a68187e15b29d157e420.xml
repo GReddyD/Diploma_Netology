@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07263_jpg.rf.ea53296ca6a4a68187e15b29d157e420.jpg</filename>
+	<path>07263_jpg.rf.ea53296ca6a4a68187e15b29d157e420.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW X5 SUV 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>404</xmax>
+			<ymin>89</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

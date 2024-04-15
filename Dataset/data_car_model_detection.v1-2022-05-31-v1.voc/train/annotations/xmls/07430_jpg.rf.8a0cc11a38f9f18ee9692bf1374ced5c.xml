@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07430_jpg.rf.8a0cc11a38f9f18ee9692bf1374ced5c.jpg</filename>
+	<path>07430_jpg.rf.8a0cc11a38f9f18ee9692bf1374ced5c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Durango SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>109</xmin>
+			<xmax>320</xmax>
+			<ymin>114</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

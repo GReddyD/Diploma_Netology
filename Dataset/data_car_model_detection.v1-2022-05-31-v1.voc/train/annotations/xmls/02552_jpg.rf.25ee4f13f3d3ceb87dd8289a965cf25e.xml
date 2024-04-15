@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02552_jpg.rf.25ee4f13f3d3ceb87dd8289a965cf25e.jpg</filename>
+	<path>02552_jpg.rf.25ee4f13f3d3ceb87dd8289a965cf25e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fisker Karma Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>374</xmax>
+			<ymin>181</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

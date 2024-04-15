@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04469_jpg.rf.d15dfb2305d12656f57968a4b57ad77b.jpg</filename>
+	<path>04469_jpg.rf.d15dfb2305d12656f57968a4b57ad77b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW 6 Series Convertible 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>352</xmax>
+			<ymin>154</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

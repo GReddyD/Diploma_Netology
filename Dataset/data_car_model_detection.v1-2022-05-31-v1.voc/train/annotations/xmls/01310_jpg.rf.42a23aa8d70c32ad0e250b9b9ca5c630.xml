@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01310_jpg.rf.42a23aa8d70c32ad0e250b9b9ca5c630.jpg</filename>
+	<path>01310_jpg.rf.42a23aa8d70c32ad0e250b9b9ca5c630.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plymouth Neon Coupe 1999</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>399</xmax>
+			<ymin>103</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

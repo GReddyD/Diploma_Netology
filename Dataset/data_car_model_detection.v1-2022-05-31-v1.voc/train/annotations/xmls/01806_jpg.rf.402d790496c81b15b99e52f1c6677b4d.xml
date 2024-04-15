@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01806_jpg.rf.402d790496c81b15b99e52f1c6677b4d.jpg</filename>
+	<path>01806_jpg.rf.402d790496c81b15b99e52f1c6677b4d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Silverado 1500 Hybrid Crew Cab 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>405</xmax>
+			<ymin>153</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

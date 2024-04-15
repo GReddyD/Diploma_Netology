@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05191_jpg.rf.3165755d36c42c8fedf787a8597db833.jpg</filename>
+	<path>05191_jpg.rf.3165755d36c42c8fedf787a8597db833.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Camaro Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>402</xmax>
+			<ymin>160</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

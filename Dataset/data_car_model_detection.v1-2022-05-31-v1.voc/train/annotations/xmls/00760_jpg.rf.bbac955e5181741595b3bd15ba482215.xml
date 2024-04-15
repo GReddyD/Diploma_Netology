@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00760_jpg.rf.bbac955e5181741595b3bd15ba482215.jpg</filename>
+	<path>00760_jpg.rf.bbac955e5181741595b3bd15ba482215.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Juke Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>383</xmax>
+			<ymin>69</ymin>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

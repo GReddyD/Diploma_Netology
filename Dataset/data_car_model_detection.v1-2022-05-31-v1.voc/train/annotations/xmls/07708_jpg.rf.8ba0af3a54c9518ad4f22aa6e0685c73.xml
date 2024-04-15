@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07708_jpg.rf.8ba0af3a54c9518ad4f22aa6e0685c73.jpg</filename>
+	<path>07708_jpg.rf.8ba0af3a54c9518ad4f22aa6e0685c73.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HUMMER H2 SUT Crew Cab 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>385</xmax>
+			<ymin>117</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

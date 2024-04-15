@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06329_jpg.rf.381c0cbecc5f2ae2f9612c48dece7030.jpg</filename>
+	<path>06329_jpg.rf.381c0cbecc5f2ae2f9612c48dece7030.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz SL-Class Coupe 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<xmax>275</xmax>
+			<ymin>215</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04326_jpg.rf.b6f6d7f2c64bc2ca4411d138d86eff9f.jpg</filename>
+	<path>04326_jpg.rf.b6f6d7f2c64bc2ca4411d138d86eff9f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Sonic Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>365</xmax>
+			<ymin>154</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

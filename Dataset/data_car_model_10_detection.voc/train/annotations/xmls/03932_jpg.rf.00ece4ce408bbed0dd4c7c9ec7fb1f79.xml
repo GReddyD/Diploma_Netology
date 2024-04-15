@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03932_jpg.rf.00ece4ce408bbed0dd4c7c9ec7fb1f79.jpg</filename>
+	<path>03932_jpg.rf.00ece4ce408bbed0dd4c7c9ec7fb1f79.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buick Verano Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>360</xmax>
+			<ymin>114</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

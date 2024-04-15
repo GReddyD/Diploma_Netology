@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04847_jpg.rf.d123ee58ea0f0d419d4ba1e3907b499e.jpg</filename>
+	<path>04847_jpg.rf.d123ee58ea0f0d419d4ba1e3907b499e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Caravan Minivan 1997</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>410</xmax>
+			<ymin>106</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

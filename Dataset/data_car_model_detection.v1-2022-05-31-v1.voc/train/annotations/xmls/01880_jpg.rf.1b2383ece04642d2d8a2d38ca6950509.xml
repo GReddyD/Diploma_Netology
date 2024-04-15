@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01880_jpg.rf.1b2383ece04642d2d8a2d38ca6950509.jpg</filename>
+	<path>01880_jpg.rf.1b2383ece04642d2d8a2d38ca6950509.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi TTS Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>362</xmax>
+			<ymin>185</ymin>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

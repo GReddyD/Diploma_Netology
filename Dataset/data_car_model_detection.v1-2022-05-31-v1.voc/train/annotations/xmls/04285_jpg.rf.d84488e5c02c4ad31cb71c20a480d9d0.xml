@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04285_jpg.rf.d84488e5c02c4ad31cb71c20a480d9d0.jpg</filename>
+	<path>04285_jpg.rf.d84488e5c02c4ad31cb71c20a480d9d0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Monte Carlo Coupe 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>407</xmax>
+			<ymin>102</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

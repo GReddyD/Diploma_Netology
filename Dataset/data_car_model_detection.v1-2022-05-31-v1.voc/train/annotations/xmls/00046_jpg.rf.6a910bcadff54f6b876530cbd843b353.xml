@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00046_jpg.rf.6a910bcadff54f6b876530cbd843b353.jpg</filename>
+	<path>00046_jpg.rf.6a910bcadff54f6b876530cbd843b353.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi TT RS Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>402</xmax>
+			<ymin>120</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

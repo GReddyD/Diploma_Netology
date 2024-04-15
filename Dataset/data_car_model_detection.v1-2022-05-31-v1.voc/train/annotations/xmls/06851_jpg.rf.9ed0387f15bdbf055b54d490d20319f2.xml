@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06851_jpg.rf.9ed0387f15bdbf055b54d490d20319f2.jpg</filename>
+	<path>06851_jpg.rf.9ed0387f15bdbf055b54d490d20319f2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep Patriot SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>352</xmax>
+			<ymin>136</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

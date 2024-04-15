@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03023_jpg.rf.f1185ea6fba0772b9861758f68e91235.jpg</filename>
+	<path>03023_jpg.rf.f1185ea6fba0772b9861758f68e91235.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet HHR SS 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>346</xmax>
+			<ymin>112</ymin>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

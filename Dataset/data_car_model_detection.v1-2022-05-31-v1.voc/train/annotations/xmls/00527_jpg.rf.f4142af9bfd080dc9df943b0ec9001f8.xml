@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00527_jpg.rf.f4142af9bfd080dc9df943b0ec9001f8.jpg</filename>
+	<path>00527_jpg.rf.f4142af9bfd080dc9df943b0ec9001f8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen Golf Hatchback 1991</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>393</xmax>
+			<ymin>133</ymin>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

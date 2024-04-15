@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00814_jpg.rf.caa77472c8993b1146e4e2e1ded28323.jpg</filename>
+	<path>00814_jpg.rf.caa77472c8993b1146e4e2e1ded28323.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daewoo Nubira Wagon 2002</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>376</xmax>
+			<ymin>109</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

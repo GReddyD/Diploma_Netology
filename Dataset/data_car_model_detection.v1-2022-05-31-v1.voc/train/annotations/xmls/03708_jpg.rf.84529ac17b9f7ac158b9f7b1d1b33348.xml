@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03708_jpg.rf.84529ac17b9f7ac158b9f7b1d1b33348.jpg</filename>
+	<path>03708_jpg.rf.84529ac17b9f7ac158b9f7b1d1b33348.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cadillac Escalade EXT Crew Cab 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>393</xmax>
+			<ymin>93</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

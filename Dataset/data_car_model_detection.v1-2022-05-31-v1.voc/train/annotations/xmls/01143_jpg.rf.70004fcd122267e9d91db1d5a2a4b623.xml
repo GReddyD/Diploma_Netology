@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01143_jpg.rf.70004fcd122267e9d91db1d5a2a4b623.jpg</filename>
+	<path>01143_jpg.rf.70004fcd122267e9d91db1d5a2a4b623.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC Acadia SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>397</xmax>
+			<ymin>157</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

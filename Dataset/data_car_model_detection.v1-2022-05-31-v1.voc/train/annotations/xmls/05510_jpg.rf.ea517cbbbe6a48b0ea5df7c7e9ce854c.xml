@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05510_jpg.rf.ea517cbbbe6a48b0ea5df7c7e9ce854c.jpg</filename>
+	<path>05510_jpg.rf.ea517cbbbe6a48b0ea5df7c7e9ce854c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Infiniti G Coupe IPL 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>405</xmax>
+			<ymin>136</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

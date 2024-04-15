@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06921_jpg.rf.1e40e62bda84a2d543213227a27d159d.jpg</filename>
+	<path>06921_jpg.rf.1e40e62bda84a2d543213227a27d159d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aston Martin V8 Vantage Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>374</xmax>
+			<ymin>158</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

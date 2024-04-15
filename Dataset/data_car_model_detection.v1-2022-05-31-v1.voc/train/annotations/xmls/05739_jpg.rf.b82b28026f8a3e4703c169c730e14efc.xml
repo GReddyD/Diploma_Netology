@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05739_jpg.rf.b82b28026f8a3e4703c169c730e14efc.jpg</filename>
+	<path>05739_jpg.rf.b82b28026f8a3e4703c169c730e14efc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Express Cargo Van 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>385</xmax>
+			<ymin>115</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

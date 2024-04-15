@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05919_jpg.rf.e5b5dbada625178f5cc57a9b60cca8b2.jpg</filename>
+	<path>05919_jpg.rf.e5b5dbada625178f5cc57a9b60cca8b2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford F-450 Super Duty Crew Cab 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>399</xmax>
+			<ymin>77</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

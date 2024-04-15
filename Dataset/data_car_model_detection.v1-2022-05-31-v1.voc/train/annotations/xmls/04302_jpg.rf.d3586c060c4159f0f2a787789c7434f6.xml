@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04302_jpg.rf.d3586c060c4159f0f2a787789c7434f6.jpg</filename>
+	<path>04302_jpg.rf.d3586c060c4159f0f2a787789c7434f6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Corvette Ron Fellows Edition Z06 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>386</xmax>
+			<ymin>160</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

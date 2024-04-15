@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01741_jpg.rf.fdd21ba2be5fd0950233e6eb55ff95c8.jpg</filename>
+	<path>01741_jpg.rf.fdd21ba2be5fd0950233e6eb55ff95c8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Elantra Touring Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>352</xmax>
+			<ymin>96</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

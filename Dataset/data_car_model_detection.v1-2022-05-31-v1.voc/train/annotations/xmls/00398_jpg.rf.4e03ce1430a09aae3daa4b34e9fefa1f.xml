@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00398_jpg.rf.4e03ce1430a09aae3daa4b34e9fefa1f.jpg</filename>
+	<path>00398_jpg.rf.4e03ce1430a09aae3daa4b34e9fefa1f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bentley Arnage Sedan 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>392</xmax>
+			<ymin>141</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

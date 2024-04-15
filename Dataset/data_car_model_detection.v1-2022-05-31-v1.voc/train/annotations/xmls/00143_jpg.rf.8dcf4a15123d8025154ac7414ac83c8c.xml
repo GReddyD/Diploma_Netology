@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00143_jpg.rf.8dcf4a15123d8025154ac7414ac83c8c.jpg</filename>
+	<path>00143_jpg.rf.8dcf4a15123d8025154ac7414ac83c8c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Land Rover LR2 SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>355</xmax>
+			<ymin>106</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

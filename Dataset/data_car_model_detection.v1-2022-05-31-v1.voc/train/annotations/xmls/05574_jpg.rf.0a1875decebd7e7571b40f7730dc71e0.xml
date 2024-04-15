@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05574_jpg.rf.0a1875decebd7e7571b40f7730dc71e0.jpg</filename>
+	<path>05574_jpg.rf.0a1875decebd7e7571b40f7730dc71e0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford F-150 Regular Cab 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>381</xmax>
+			<ymin>74</ymin>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

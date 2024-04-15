@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02613_jpg.rf.e843be0495098bde9427a52d06aed32c.jpg</filename>
+	<path>02613_jpg.rf.e843be0495098bde9427a52d06aed32c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lamborghini Diablo Coupe 2001</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>387</xmax>
+			<ymin>115</ymin>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

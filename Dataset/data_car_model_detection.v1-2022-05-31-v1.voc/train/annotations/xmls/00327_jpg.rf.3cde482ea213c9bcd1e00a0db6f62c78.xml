@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00327_jpg.rf.3cde482ea213c9bcd1e00a0db6f62c78.jpg</filename>
+	<path>00327_jpg.rf.3cde482ea213c9bcd1e00a0db6f62c78.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spyker C8 Coupe 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>414</xmax>
+			<ymin>74</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

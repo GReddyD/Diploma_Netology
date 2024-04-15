@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03862_jpg.rf.6c5d055f1a6293779c5654c5806cc1cc.jpg</filename>
+	<path>03862_jpg.rf.6c5d055f1a6293779c5654c5806cc1cc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Silverado 1500 Extended Cab 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>393</xmax>
+			<ymin>160</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

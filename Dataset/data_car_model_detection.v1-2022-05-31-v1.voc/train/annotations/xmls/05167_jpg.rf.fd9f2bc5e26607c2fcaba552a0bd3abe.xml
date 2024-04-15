@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05167_jpg.rf.fd9f2bc5e26607c2fcaba552a0bd3abe.jpg</filename>
+	<path>05167_jpg.rf.fd9f2bc5e26607c2fcaba552a0bd3abe.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ram C-V Cargo Van Minivan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>406</xmax>
+			<ymin>137</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

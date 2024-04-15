@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05750_jpg.rf.d6d25af249255bc005f98cf577b19ccb.jpg</filename>
+	<path>05750_jpg.rf.d6d25af249255bc005f98cf577b19ccb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Suzuki Aerio Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>411</xmax>
+			<ymin>62</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

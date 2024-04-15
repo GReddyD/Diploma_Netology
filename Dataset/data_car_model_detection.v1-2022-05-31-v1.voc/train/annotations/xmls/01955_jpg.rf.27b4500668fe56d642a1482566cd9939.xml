@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01955_jpg.rf.27b4500668fe56d642a1482566cd9939.jpg</filename>
+	<path>01955_jpg.rf.27b4500668fe56d642a1482566cd9939.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Azera Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>328</xmax>
+			<ymin>213</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

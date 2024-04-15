@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02873_jpg.rf.d43c505f4201063726ef1a4959f691a8.jpg</filename>
+	<path>02873_jpg.rf.d43c505f4201063726ef1a4959f691a8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi RS 4 Convertible 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>369</xmax>
+			<ymin>146</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

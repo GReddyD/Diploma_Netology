@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03046_jpg.rf.3e061e6ea96278f63deb6b82a0fc89bd.jpg</filename>
+	<path>03046_jpg.rf.3e061e6ea96278f63deb6b82a0fc89bd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ferrari 458 Italia Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>360</xmax>
+			<ymin>168</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

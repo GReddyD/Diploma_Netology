@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01776_jpg.rf.7c9e0a21769e32c820206d12829f854e.jpg</filename>
+	<path>01776_jpg.rf.7c9e0a21769e32c820206d12829f854e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rolls-Royce Phantom Drophead Coupe Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>270</xmax>
+			<ymin>193</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

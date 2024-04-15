@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02483_jpg.rf.c6666e98626d5a6e197f9cc911a280e6.jpg</filename>
+	<path>02483_jpg.rf.c6666e98626d5a6e197f9cc911a280e6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Sprinter Cargo Van 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>405</xmax>
+			<ymin>88</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

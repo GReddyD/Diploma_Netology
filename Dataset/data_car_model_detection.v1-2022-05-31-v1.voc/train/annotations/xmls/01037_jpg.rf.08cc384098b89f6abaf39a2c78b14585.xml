@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01037_jpg.rf.08cc384098b89f6abaf39a2c78b14585.jpg</filename>
+	<path>01037_jpg.rf.08cc384098b89f6abaf39a2c78b14585.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Odyssey Minivan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>416</xmax>
+			<ymin>83</ymin>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

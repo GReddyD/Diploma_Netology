@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>08022_jpg.rf.c1cc1e84aec3e198c4da171d3df4601a.jpg</filename>
+	<path>08022_jpg.rf.c1cc1e84aec3e198c4da171d3df4601a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lamborghini Gallardo LP 570-4 Superleggera 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>371</xmax>
+			<ymin>153</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

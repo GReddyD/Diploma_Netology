@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07413_jpg.rf.ddc5a58853eb2055df12af2068afb3cf.jpg</filename>
+	<path>07413_jpg.rf.ddc5a58853eb2055df12af2068afb3cf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volvo XC90 SUV 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>404</xmax>
+			<ymin>93</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

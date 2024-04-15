@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07001_jpg.rf.e0e36f296f1f90f24c6494905afb5b28.jpg</filename>
+	<path>07001_jpg.rf.e0e36f296f1f90f24c6494905afb5b28.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC Terrain SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>400</xmax>
+			<ymin>101</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

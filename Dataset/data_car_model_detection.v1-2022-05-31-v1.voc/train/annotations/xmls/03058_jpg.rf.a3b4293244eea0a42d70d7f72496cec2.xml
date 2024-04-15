@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03058_jpg.rf.a3b4293244eea0a42d70d7f72496cec2.jpg</filename>
+	<path>03058_jpg.rf.a3b4293244eea0a42d70d7f72496cec2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eagle Talon Hatchback 1998</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>357</xmax>
+			<ymin>77</ymin>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

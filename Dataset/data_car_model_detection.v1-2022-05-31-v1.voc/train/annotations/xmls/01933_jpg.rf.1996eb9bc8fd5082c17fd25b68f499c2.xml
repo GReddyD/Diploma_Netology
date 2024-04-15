@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01933_jpg.rf.1996eb9bc8fd5082c17fd25b68f499c2.jpg</filename>
+	<path>01933_jpg.rf.1996eb9bc8fd5082c17fd25b68f499c2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buick Regal GS 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>362</xmax>
+			<ymin>158</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

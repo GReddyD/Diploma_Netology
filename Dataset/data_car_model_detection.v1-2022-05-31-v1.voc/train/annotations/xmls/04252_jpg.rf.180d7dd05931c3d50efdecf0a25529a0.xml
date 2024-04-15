@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04252_jpg.rf.180d7dd05931c3d50efdecf0a25529a0.jpg</filename>
+	<path>04252_jpg.rf.180d7dd05931c3d50efdecf0a25529a0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acura ZDX Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>250</xmax>
+			<ymin>159</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

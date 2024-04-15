@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01580_jpg.rf.ae45b4fc6bb13b525d6115a0896bed39.jpg</filename>
+	<path>01580_jpg.rf.ae45b4fc6bb13b525d6115a0896bed39.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW X6 SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>361</xmax>
+			<ymin>70</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

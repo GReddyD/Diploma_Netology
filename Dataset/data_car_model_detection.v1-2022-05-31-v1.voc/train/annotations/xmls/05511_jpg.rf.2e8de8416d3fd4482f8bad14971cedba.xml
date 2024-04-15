@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05511_jpg.rf.2e8de8416d3fd4482f8bad14971cedba.jpg</filename>
+	<path>05511_jpg.rf.2e8de8416d3fd4482f8bad14971cedba.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Suzuki SX4 Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>382</xmax>
+			<ymin>126</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

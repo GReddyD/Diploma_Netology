@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02008_jpg.rf.ddb3988c78de6dc9885f5c1806cfba27.jpg</filename>
+	<path>02008_jpg.rf.ddb3988c78de6dc9885f5c1806cfba27.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Focus Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>400</xmax>
+			<ymin>148</ymin>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

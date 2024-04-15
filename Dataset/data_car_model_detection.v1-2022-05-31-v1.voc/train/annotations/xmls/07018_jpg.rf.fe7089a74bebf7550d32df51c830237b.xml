@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07018_jpg.rf.fe7089a74bebf7550d32df51c830237b.jpg</filename>
+	<path>07018_jpg.rf.fe7089a74bebf7550d32df51c830237b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Porsche Panamera Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>321</xmax>
+			<ymin>128</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

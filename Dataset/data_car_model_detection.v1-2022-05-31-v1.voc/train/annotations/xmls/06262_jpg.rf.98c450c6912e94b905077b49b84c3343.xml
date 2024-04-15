@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06262_jpg.rf.98c450c6912e94b905077b49b84c3343.jpg</filename>
+	<path>06262_jpg.rf.98c450c6912e94b905077b49b84c3343.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AM General Hummer SUV 2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>413</xmax>
+			<ymin>120</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00943_jpg.rf.e806f54b1604b2e10b3ccce3ee8b4153.jpg</filename>
+	<path>00943_jpg.rf.e806f54b1604b2e10b3ccce3ee8b4153.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buick Enclave SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<xmax>388</xmax>
+			<ymin>160</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

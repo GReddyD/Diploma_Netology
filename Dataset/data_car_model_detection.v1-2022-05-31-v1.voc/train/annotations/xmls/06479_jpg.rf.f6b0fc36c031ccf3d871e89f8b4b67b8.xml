@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06479_jpg.rf.f6b0fc36c031ccf3d871e89f8b4b67b8.jpg</filename>
+	<path>06479_jpg.rf.f6b0fc36c031ccf3d871e89f8b4b67b8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scion xD Hatchback 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>379</xmax>
+			<ymin>83</ymin>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

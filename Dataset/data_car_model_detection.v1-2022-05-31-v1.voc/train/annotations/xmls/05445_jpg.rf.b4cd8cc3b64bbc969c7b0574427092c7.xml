@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05445_jpg.rf.b4cd8cc3b64bbc969c7b0574427092c7.jpg</filename>
+	<path>05445_jpg.rf.b4cd8cc3b64bbc969c7b0574427092c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW 1 Series Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>395</xmax>
+			<ymin>151</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

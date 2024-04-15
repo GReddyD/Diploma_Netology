@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06733_jpg.rf.57c9cbb3c8dc8339e2169c832ce704a2.jpg</filename>
+	<path>06733_jpg.rf.57c9cbb3c8dc8339e2169c832ce704a2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai Sonata Hybrid Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>85</xmin>
+			<xmax>247</xmax>
+			<ymin>144</ymin>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

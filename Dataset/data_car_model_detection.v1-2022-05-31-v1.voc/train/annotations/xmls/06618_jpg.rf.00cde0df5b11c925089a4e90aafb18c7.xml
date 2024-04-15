@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06618_jpg.rf.00cde0df5b11c925089a4e90aafb18c7.jpg</filename>
+	<path>06618_jpg.rf.00cde0df5b11c925089a4e90aafb18c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Impala Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>395</xmax>
+			<ymin>159</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

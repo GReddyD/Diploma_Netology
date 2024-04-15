@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01394_jpg.rf.7973eb27d3dd29d6d417d287d0c2b8da.jpg</filename>
+	<path>01394_jpg.rf.7973eb27d3dd29d6d417d287d0c2b8da.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lincoln Town Car Sedan 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>401</xmax>
+			<ymin>136</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

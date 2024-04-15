@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03882_jpg.rf.a2f7348dc82add50833a28d7334ccdc3.jpg</filename>
+	<path>03882_jpg.rf.a2f7348dc82add50833a28d7334ccdc3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aston Martin Virage Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>383</xmax>
+			<ymin>175</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

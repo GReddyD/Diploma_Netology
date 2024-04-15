@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00083_jpg.rf.bec0b384ff0d3f414a52e74feb8e54e4.jpg</filename>
+	<path>00083_jpg.rf.bec0b384ff0d3f414a52e74feb8e54e4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi 100 Wagon 1994</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>408</xmax>
+			<ymin>120</ymin>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

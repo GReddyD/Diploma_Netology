@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05683_jpg.rf.25f16762aaf3ef7412e3f6f9a251c74b.jpg</filename>
+	<path>05683_jpg.rf.25f16762aaf3ef7412e3f6f9a251c74b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bugatti Veyron 16-4 Convertible 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>117</xmin>
+			<xmax>282</xmax>
+			<ymin>187</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

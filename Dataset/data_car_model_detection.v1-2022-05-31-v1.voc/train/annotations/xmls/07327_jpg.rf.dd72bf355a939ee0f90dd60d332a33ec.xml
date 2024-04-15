@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07327_jpg.rf.dd72bf355a939ee0f90dd60d332a33ec.jpg</filename>
+	<path>07327_jpg.rf.dd72bf355a939ee0f90dd60d332a33ec.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Fiesta Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>402</xmax>
+			<ymin>78</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04688_jpg.rf.888732460bd8b62bb8337560814b661e.jpg</filename>
+	<path>04688_jpg.rf.888732460bd8b62bb8337560814b661e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler Aspen SUV 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>318</xmax>
+			<ymin>89</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

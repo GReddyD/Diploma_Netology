@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01890_jpg.rf.aa002e216af7a30404363f3fd8bc4563.jpg</filename>
+	<path>01890_jpg.rf.aa002e216af7a30404363f3fd8bc4563.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW ActiveHybrid 5 Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>369</xmax>
+			<ymin>205</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

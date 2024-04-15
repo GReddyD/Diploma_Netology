@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00486_jpg.rf.31bd21d9881770f0f793e56dbfb67f06.jpg</filename>
+	<path>00486_jpg.rf.31bd21d9881770f0f793e56dbfb67f06.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Traverse SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>382</xmax>
+			<ymin>101</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

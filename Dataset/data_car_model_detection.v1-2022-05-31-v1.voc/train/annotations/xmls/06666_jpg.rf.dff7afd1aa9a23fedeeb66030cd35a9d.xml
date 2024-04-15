@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06666_jpg.rf.dff7afd1aa9a23fedeeb66030cd35a9d.jpg</filename>
+	<path>06666_jpg.rf.dff7afd1aa9a23fedeeb66030cd35a9d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler 300 SRT-8 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>411</xmax>
+			<ymin>130</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

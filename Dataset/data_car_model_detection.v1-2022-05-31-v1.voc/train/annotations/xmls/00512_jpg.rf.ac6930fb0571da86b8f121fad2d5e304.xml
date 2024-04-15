@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00512_jpg.rf.ac6930fb0571da86b8f121fad2d5e304.jpg</filename>
+	<path>00512_jpg.rf.ac6930fb0571da86b8f121fad2d5e304.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ferrari 458 Italia Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>400</xmax>
+			<ymin>163</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

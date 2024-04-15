@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01550_jpg.rf.c89086d5f81eba3b1432b8438c6b221f.jpg</filename>
+	<path>01550_jpg.rf.c89086d5f81eba3b1432b8438c6b221f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toyota Camry Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>372</xmax>
+			<ymin>195</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

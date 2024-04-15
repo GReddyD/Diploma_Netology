@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03713_jpg.rf.d725d0a8cb3a2bd2687412d01ff83d9c.jpg</filename>
+	<path>03713_jpg.rf.d725d0a8cb3a2bd2687412d01ff83d9c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MINI Cooper Roadster Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>400</xmax>
+			<ymin>163</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

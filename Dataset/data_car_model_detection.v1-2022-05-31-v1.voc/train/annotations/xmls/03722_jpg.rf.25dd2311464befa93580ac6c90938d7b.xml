@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03722_jpg.rf.25dd2311464befa93580ac6c90938d7b.jpg</filename>
+	<path>03722_jpg.rf.25dd2311464befa93580ac6c90938d7b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW 3 Series Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>255</xmax>
+			<ymin>128</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

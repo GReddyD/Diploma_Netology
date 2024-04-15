@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05403_jpg.rf.edddac017796dee82baca90d54efad14.jpg</filename>
+	<path>05403_jpg.rf.edddac017796dee82baca90d54efad14.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dodge Challenger SRT8 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>417</xmax>
+			<ymin>213</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

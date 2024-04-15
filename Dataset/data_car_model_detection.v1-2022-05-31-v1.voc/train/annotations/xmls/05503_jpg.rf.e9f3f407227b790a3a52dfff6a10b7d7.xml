@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05503_jpg.rf.e9f3f407227b790a3a52dfff6a10b7d7.jpg</filename>
+	<path>05503_jpg.rf.e9f3f407227b790a3a52dfff6a10b7d7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes-Benz Sprinter Van 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>416</xmax>
+			<ymin>77</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

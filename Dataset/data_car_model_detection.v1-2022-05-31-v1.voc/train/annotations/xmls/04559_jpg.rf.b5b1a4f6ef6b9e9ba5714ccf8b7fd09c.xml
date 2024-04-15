@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04559_jpg.rf.b5b1a4f6ef6b9e9ba5714ccf8b7fd09c.jpg</filename>
+	<path>04559_jpg.rf.b5b1a4f6ef6b9e9ba5714ccf8b7fd09c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC Savana Van 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>353</xmax>
+			<ymin>149</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

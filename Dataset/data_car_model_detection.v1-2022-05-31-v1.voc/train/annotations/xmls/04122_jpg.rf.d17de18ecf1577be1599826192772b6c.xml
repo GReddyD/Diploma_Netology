@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04122_jpg.rf.d17de18ecf1577be1599826192772b6c.jpg</filename>
+	<path>04122_jpg.rf.d17de18ecf1577be1599826192772b6c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford E-Series Wagon Van 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>415</xmax>
+			<ymin>96</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

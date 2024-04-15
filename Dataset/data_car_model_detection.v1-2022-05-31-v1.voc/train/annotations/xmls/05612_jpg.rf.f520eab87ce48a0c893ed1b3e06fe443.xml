@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05612_jpg.rf.f520eab87ce48a0c893ed1b3e06fe443.jpg</filename>
+	<path>05612_jpg.rf.f520eab87ce48a0c893ed1b3e06fe443.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Expedition EL SUV 2009</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>346</xmax>
+			<ymin>162</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04747_jpg.rf.b640401d26f3b35912ae77d539c9b00b.jpg</filename>
+	<path>04747_jpg.rf.b640401d26f3b35912ae77d539c9b00b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bentley Continental Supersports Conv- Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>304</xmax>
+			<ymin>109</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

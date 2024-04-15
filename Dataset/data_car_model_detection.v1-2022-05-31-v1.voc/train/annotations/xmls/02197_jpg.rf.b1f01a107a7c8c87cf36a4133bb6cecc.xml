@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02197_jpg.rf.b1f01a107a7c8c87cf36a4133bb6cecc.jpg</filename>
+	<path>02197_jpg.rf.b1f01a107a7c8c87cf36a4133bb6cecc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maybach Landaulet Convertible 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>318</xmax>
+			<ymin>120</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

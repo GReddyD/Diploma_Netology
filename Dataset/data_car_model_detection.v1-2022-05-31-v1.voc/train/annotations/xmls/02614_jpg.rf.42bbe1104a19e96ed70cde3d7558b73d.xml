@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02614_jpg.rf.42bbe1104a19e96ed70cde3d7558b73d.jpg</filename>
+	<path>02614_jpg.rf.42bbe1104a19e96ed70cde3d7558b73d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler Sebring Convertible 2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>384</xmax>
+			<ymin>140</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

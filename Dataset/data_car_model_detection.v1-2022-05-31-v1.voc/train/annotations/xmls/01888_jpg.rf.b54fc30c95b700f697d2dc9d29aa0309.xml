@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01888_jpg.rf.b54fc30c95b700f697d2dc9d29aa0309.jpg</filename>
+	<path>01888_jpg.rf.b54fc30c95b700f697d2dc9d29aa0309.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler Town and Country Minivan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>409</xmax>
+			<ymin>146</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

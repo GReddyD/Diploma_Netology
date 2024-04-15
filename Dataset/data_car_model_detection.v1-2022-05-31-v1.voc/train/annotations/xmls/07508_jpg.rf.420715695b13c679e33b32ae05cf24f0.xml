@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07508_jpg.rf.420715695b13c679e33b32ae05cf24f0.jpg</filename>
+	<path>07508_jpg.rf.420715695b13c679e33b32ae05cf24f0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Accord Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>348</xmax>
+			<ymin>133</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

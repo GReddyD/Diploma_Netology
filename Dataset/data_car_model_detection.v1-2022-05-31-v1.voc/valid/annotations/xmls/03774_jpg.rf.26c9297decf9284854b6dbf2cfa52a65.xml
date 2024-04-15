@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03774_jpg.rf.26c9297decf9284854b6dbf2cfa52a65.jpg</filename>
+	<path>03774_jpg.rf.26c9297decf9284854b6dbf2cfa52a65.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buick Rainier SUV 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>392</xmax>
+			<ymin>127</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

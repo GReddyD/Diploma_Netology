@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07939_jpg.rf.4d4d5120eba2be9d00e670c5cb399c32.jpg</filename>
+	<path>07939_jpg.rf.4d4d5120eba2be9d00e670c5cb399c32.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toyota 4Runner SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>372</xmax>
+			<ymin>90</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

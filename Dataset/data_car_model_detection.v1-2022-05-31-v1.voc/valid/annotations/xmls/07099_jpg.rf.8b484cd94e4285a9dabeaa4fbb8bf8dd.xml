@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07099_jpg.rf.8b484cd94e4285a9dabeaa4fbb8bf8dd.jpg</filename>
+	<path>07099_jpg.rf.8b484cd94e4285a9dabeaa4fbb8bf8dd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Mustang Convertible 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>387</xmax>
+			<ymin>81</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

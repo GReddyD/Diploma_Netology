@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01592_jpg.rf.d727998f1bc9847b6427dcf78220213d.jpg</filename>
+	<path>01592_jpg.rf.d727998f1bc9847b6427dcf78220213d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep Wrangler SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>235</xmax>
+			<ymin>158</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

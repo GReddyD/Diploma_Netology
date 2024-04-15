@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07088_jpg.rf.4b7128cf8b6a52c2f937c91c7a908d15.jpg</filename>
+	<path>07088_jpg.rf.4b7128cf8b6a52c2f937c91c7a908d15.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep Liberty SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>409</xmax>
+			<ymin>107</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

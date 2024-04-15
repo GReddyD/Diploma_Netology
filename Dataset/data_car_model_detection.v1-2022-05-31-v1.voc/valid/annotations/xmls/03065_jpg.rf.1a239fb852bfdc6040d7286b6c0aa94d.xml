@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03065_jpg.rf.1a239fb852bfdc6040d7286b6c0aa94d.jpg</filename>
+	<path>03065_jpg.rf.1a239fb852bfdc6040d7286b6c0aa94d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toyota Sequoia SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>375</xmax>
+			<ymin>124</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

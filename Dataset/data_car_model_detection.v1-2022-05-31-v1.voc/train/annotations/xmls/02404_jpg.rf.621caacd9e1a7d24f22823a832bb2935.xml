@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02404_jpg.rf.621caacd9e1a7d24f22823a832bb2935.jpg</filename>
+	<path>02404_jpg.rf.621caacd9e1a7d24f22823a832bb2935.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC Yukon Hybrid SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>403</xmax>
+			<ymin>117</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

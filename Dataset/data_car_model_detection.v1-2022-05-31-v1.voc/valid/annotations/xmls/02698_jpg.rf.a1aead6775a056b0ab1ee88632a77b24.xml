@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02698_jpg.rf.a1aead6775a056b0ab1ee88632a77b24.jpg</filename>
+	<path>02698_jpg.rf.a1aead6775a056b0ab1ee88632a77b24.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Freestar Minivan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>321</xmax>
+			<ymin>156</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

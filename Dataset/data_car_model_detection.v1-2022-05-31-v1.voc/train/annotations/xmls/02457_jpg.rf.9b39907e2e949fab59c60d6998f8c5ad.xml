@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02457_jpg.rf.9b39907e2e949fab59c60d6998f8c5ad.jpg</filename>
+	<path>02457_jpg.rf.9b39907e2e949fab59c60d6998f8c5ad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acura TSX Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>360</xmax>
+			<ymin>163</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

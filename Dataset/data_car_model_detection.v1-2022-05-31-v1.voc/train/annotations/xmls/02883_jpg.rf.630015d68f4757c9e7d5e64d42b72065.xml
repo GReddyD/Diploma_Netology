@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02883_jpg.rf.630015d68f4757c9e7d5e64d42b72065.jpg</filename>
+	<path>02883_jpg.rf.630015d68f4757c9e7d5e64d42b72065.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Tahoe Hybrid SUV 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>379</xmax>
+			<ymin>130</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

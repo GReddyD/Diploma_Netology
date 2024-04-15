@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04999_jpg.rf.b6a3d2ded011033161d8bcc8ece0c490.jpg</filename>
+	<path>04999_jpg.rf.b6a3d2ded011033161d8bcc8ece0c490.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford Ranger SuperCab 2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>397</xmax>
+			<ymin>85</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

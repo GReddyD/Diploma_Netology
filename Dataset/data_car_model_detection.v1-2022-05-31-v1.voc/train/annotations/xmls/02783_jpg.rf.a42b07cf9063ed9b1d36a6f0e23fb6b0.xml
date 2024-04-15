@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>02783_jpg.rf.a42b07cf9063ed9b1d36a6f0e23fb6b0.jpg</filename>
+	<path>02783_jpg.rf.a42b07cf9063ed9b1d36a6f0e23fb6b0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chevrolet Malibu Sedan 2007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>406</xmax>
+			<ymin>94</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

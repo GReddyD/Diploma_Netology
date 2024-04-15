@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05592_jpg.rf.ddcb7b77a8259cd73c2f34fba3eda2dc.jpg</filename>
+	<path>05592_jpg.rf.ddcb7b77a8259cd73c2f34fba3eda2dc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW 3 Series Wagon 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>403</xmax>
+			<ymin>135</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

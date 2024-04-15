@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>03258_jpg.rf.c80cfbcae342a71ac33cb9a1e17b61eb.jpg</filename>
+	<path>03258_jpg.rf.c80cfbcae342a71ac33cb9a1e17b61eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>McLaren MP4-12C Coupe 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>358</xmax>
+			<ymin>125</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

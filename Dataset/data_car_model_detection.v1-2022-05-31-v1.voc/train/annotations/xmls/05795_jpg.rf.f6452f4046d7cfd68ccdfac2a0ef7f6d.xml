@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05795_jpg.rf.f6452f4046d7cfd68ccdfac2a0ef7f6d.jpg</filename>
+	<path>05795_jpg.rf.f6452f4046d7cfd68ccdfac2a0ef7f6d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tesla Model S Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>396</xmax>
+			<ymin>125</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

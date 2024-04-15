@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05313_jpg.rf.6320dbb4dea1c6208cbeb89114964098.jpg</filename>
+	<path>05313_jpg.rf.6320dbb4dea1c6208cbeb89114964098.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford GT Coupe 2006</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>392</xmax>
+			<ymin>151</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

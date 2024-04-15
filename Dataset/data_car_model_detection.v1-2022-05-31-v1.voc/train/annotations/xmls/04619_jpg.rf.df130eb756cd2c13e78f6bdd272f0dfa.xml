@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>04619_jpg.rf.df130eb756cd2c13e78f6bdd272f0dfa.jpg</filename>
+	<path>04619_jpg.rf.df130eb756cd2c13e78f6bdd272f0dfa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cadillac CTS-V Sedan 2012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>411</xmax>
+			<ymin>118</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

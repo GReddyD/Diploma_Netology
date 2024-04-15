@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>01823_jpg.rf.a5e69f517e904fc6ccb484a817f1eb14.jpg</filename>
+	<path>01823_jpg.rf.a5e69f517e904fc6ccb484a817f1eb14.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysler PT Cruiser Convertible 2008</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>341</xmax>
+			<ymin>151</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
